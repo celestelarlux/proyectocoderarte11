@@ -1,0 +1,51 @@
+
+
+
+
+
+/* variables*/
+$color-letra-nav:#6c3057;
+
+$color-backgroundcolorete: #d1b6b4;
+
+$footercolor: #d1b6b4;
+$body:#f5eceb;
+$h2h3:#9f5864;
+$lihover:#bb6262
+
+
+/*heather-nesting*/
+
+.heather_nav { 
+
+
+    display: flex;
+    justify-items: space-evenly;
+   
+
+
+
+li { 
+    margin: 20px;
+    border: solid 1px $h2h3;
+    padding: 10px;
+    border-radius: 10px;
+    align-items: center;
+
+
+    a{ text-decoration: none; color: $color-letra-nav;}
+
+    li:hover {
+        background-color: $lihover;}
+
+}
+}
+
+
+
+  
+
+
+
+ }
+

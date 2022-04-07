@@ -1,0 +1,23 @@
+{
+  "name": "proyectocoderarte1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celestelarlux/proyectocoderarte.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/celestelarlux/proyectocoderarte/issues"
+  },
+  "homepage": "https://github.com/celestelarlux/proyectocoderarte#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1",
+    "nodemon": "^2.0.15"
+  }
+}
